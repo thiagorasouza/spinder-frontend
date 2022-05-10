@@ -26,4 +26,4 @@ function MainPage() {
   );
 }
 
-export { MainPage };
+export default MainPage;
